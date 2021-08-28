@@ -1,7 +1,7 @@
  
 
 	
-## Minimo Común múltiplo
+## Funciones, ciclos y listas
 
 ### OBJETIVO 
 

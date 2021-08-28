@@ -1,4 +1,4 @@
-## Crear modulo
+## Módulos
 
 ### OBJETIVO 
 
@@ -10,6 +10,7 @@
 
 #### DESARROLLO
 
-1. Convierte el archivo del reto 01 args en un modulo
-2. Llama la funcion de suma y producto desde otro archivo
+1. Crea el script `helado_con_fresas.py`
+2. El script debe imprimir el precio del helado con fresas
+3. Sólo se permite usar los elementos del módulo `helado.py`
 

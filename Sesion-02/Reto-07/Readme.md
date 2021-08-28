@@ -1,4 +1,4 @@
-## Minimo Común múltiplo ??
+## Procesando listas
 
 ### OBJETIVO 
 
@@ -14,4 +14,11 @@
 
 #### DESARROLLO
 
-Realiza una función que tome como entrada una lista de números, y devuelva una lista con los valores en orden y sin repetidos. Además la función debe imprimir los valores uno a uno.
+1. Definir una lista de números
+1. Realiza una función que tome como entrada una lista de números
+    1. Que ordene la lista de números
+    1. Eliminar repeticiones
+    1. Que imprima los valores uno a uno
+    1. Que devuelva una lista resultante
+1. Almacenar el resultado de la función en una variable
+1. Imprimir el valor de la variabel resultante
