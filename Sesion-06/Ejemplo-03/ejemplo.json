@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "nombre": "Hugo Mc Pato",
+        "edad": 5,
+        "genero": "Pato"
+    },
+    {
+        "id": 2,
+        "nombre": "Paco Mc Pato",
+        "edad": 3,
+        "genero": "Pato"
+    },
+    {
+        "id": 3,
+        "nombre": "Daisy Mc Pato",
+        "genero": "Pata"
+    }
+]
