@@ -9,21 +9,16 @@
 - Introducción a Flask
 
 	- [Ejemplo 01](Ejemplo-01)
-	- [Reto 01](Reto-01)
 
 - Rutas y parámetros
 
-	- [Ejemplo 03](Ejemplo-03)
-	- [Reto 01](Reto-01)
-
-
-- Rutas avanzadas
-
-	- [Ejemplo 04](Ejemplo-04)
-	- [Reto 02](Reto-02)
-
+	- [Ejemplo 02](Ejemplo-02)
 
 - Formularios
 
-	- [Ejemplo 05](Ejemplo-05)
+	- [Ejemplo 03](Ejemplo-03)
 
+- Aplicación Web de Administración de Productos
+
+	- [Ejemplo 04](Ejemplo-04)
+	- [Reto 04](Reto-04)
