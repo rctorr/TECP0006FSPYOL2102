@@ -1,5 +1,4 @@
 from estudiante import EstudianteDB
-import pytest
 
 db = EstudianteDB()
 db.connect('data.json')
@@ -10,9 +9,11 @@ def test_datos_luigi():
     assert luigi['id'] == 2
     assert luigi['nombre'] == 'Luigi'
     assert luigi['resultado'] == 'reprobado'
+    assert len(luigi.keys())  == 3
 
 def test_datos_mario():
-    luigi = db.get_data('Mario')
-    assert luigi['id'] == 1
-    assert luigi['nombre'] == 'Mario'
-    assert luigi['resultado'] == 'aprobado'
+    estudiante = db.get_data('Mario')
+    assert estudiante['id'] == 1
+    assert estudiante['nombre'] == 'Mario'
+    assert estudiante['resultado'] == 'aprobado'
+    assert len(estudiante.keys())  == 3
